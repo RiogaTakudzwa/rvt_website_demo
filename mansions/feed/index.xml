@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mansions &#8211; Local</title>
+	<atom:link href="http://wordpress/mansions/feed/?simply_static_page=1940" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Feb 2024 09:11:05 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+        <wp_options>
+            <wp_option>
+                <name>
+                    shopengine_activated_templates                </name>
+                <val>
+                    a:0:{}                </val>
+            </wp_option>
+        </wp_options>
+        	<item>
+		<title>VILLA LAGO</title>
+		<link>/mansions/villa-lago/</link>
+		
+		<dc:creator><![CDATA[Takudzwa]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2024 09:11:05 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=mansions#038;p=1701</guid>
+
+					<description><![CDATA[Welcome to Villa Lago! Stunning brand new modern lakefront home with high ceilings, open concept, abundance of natural light coming through the Floor-to-Ceiling impact windows throughout, 24,600 sq ft lot, including the slope of the land and portion that extends into the lake. From the impressive &#38; elegant double-height foyer with a second floor catwalk, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Welcome to Villa Lago!</p>
+<p>Stunning brand new modern lakefront home with high ceilings, open concept, abundance of natural light coming through the Floor-to-Ceiling impact windows throughout, 24,600 sq ft lot, including the slope of the land and portion that extends into the lake. From the impressive &amp; elegant double-height foyer with a second floor catwalk, admire this spacious 5,603 sq ft home with 5 suites.<br />
+2 suites on the 1 floor with a living, dining, family &amp; guest powder room. A large master bedroom, bathroom, walking closet &amp; balcony with an extraordinary view of the lake is on the 2nd floor with another 2 suites &amp; a large loft.<br />
+ALL ROOMS HAVE LAKE VIEW.</p>
+<p>INQUIRE FOR NIGHTLY RATE</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

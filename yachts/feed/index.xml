@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yachts &#8211; Local</title>
+	<atom:link href="http://wordpress/yachts/feed/?simply_static_page=1926" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Feb 2024 11:25:19 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+        <wp_options>
+            <wp_option>
+                <name>
+                    shopengine_activated_templates                </name>
+                <val>
+                    a:0:{}                </val>
+            </wp_option>
+        </wp_options>
+        	<item>
+		<title>PERSHING 82</title>
+		<link>/yachts/pershing-82/</link>
+		
+		<dc:creator><![CDATA[Takudzwa]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2024 09:03:53 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=yachts#038;p=1689</guid>
+
+					<description><![CDATA[Redefining the boundaries of speed and style, the Pershing 82 is categorized by the yacht builder as a missile disguised as a yacht. The Pershing 82 yacht for sale is the crme de la crme of Italian-built luxury motor yachts. Launched by the renowned yacht builder Pershing, a member of the famed Ferretti Group, the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Redefining the boundaries of speed and style, the Pershing 82 is categorized by the yacht builder as a missile disguised as a yacht. The Pershing 82 yacht for sale is the crme de la crme of Italian-built luxury motor yachts. Launched by the renowned yacht builder Pershing, a member of the famed Ferretti Group, the yacht has a definitive pedigree. The Pershing 82 offers a distinctly aggressive exterior styling that is eye-catching in every port and is a complement to her top speed of 45 knots. Her striking interior spaces are both contemporary and comfortable. The Pershing 82 price is well for her worth considering the specifications and amenities aboard. Built to an exceedingly high standard, the Pershing 82 is a dream to cruise aboard, promising safety, comfort and speed. If youre in the market for a fast and sporty luxury motor yacht that also provides an easy platform for socializing and entertaining aboard, look no further than the Pershing 82. The interior spaces of the Pershing 82 are sleek and modern like her exterior. The main salon is flanked by large windows that offer an abundance of light and views. Farther forward is a dining table and farthest forward is the yachts helm. The yacht offers four guest staterooms and two crew cabins on the lower deck.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
